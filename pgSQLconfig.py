@@ -1,5 +1,5 @@
 hostname = 'localhost'
 database = 'login'
 username = 'postgres'
-pwd = 'asdqq123'
+pwd = 'SQLpassword'
 port_id = 5432
